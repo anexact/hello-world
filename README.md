@@ -1,2 +1,2 @@
 # hello-world
-GitHub Day One
+teach yourself what you do not know
